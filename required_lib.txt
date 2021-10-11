@@ -1,0 +1,2 @@
+1. pip3 install PyQt5
+2. pip3 install pyside2

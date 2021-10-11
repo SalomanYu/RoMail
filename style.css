@@ -1,0 +1,50 @@
+QMainWindow{
+    font-family: 'TeX Gyre Heros Cn';
+    background-color: #fdfbfc;
+}
+
+QFrame#line{
+    color: #919191;
+    border:1px solid #919191;
+}
+
+QLabel#title{
+    color:black;
+    font: 16pt 'TeX Gyre Heros Cn';
+}
+
+QLabel{
+    color:#919191;
+    font:13pt 'TeX Gyre Heros Cn';
+}
+
+QLineEdit{
+    color:black;
+    background-color: #fdfbfc;
+    font: 13pt 'TeX Gyre Heros Cn';
+    border:none;
+}
+
+QTextEdit{
+    color:black;
+    font:13pt 'TeX Gyre Heros Cn';
+    border:none;
+}
+
+QPushButton#sendButton{
+    color:white;
+    background-color: #3d88f2;
+    border: 1px solid #3d88f2;
+    border-radius: 15px;
+    outline:none;
+    font: 13pt 'Roboto Black';
+}
+
+QPushButton#sendButton:hover{
+    background-color:#3c75f2;
+}
+
+QPushButton#insertButton{
+    border:none;
+    outline: none;
+}
